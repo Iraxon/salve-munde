@@ -22,7 +22,7 @@ def trigonometric_hash(number_in):
     """
     Trigonometric Hash v3.0.1
 
-    Dependencies: Digit Amputator v1.x.x
+    Dependencies: Math, Digit Amputator v1.x.x
 
     Inputs must be integers, preferrably positive.
     Negative inputs work, but they will have predictable
