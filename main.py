@@ -1,1 +1,1 @@
-import this
+print("Salve!")
